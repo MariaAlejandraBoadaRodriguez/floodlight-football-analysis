@@ -1,0 +1,14 @@
+
+---
+
+# 📦 3. Crear un archivo `requirements.txt`
+
+Así otros podrán instalar las librerías que usaste.
+
+Ejemplo:
+
+```txt
+pandas
+matplotlib
+floodlight
+notebook
